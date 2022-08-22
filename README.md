@@ -2,7 +2,7 @@
 
 ## 概要
 
-このリポジトリはvite基本 step01にtypescript機能を追加したものです。  
+このリポジトリはvite基本 step01にtypescript機能を追加したものです。  [参考資料（感謝）](https://ics.media/entry/210708/#contents-anchor-typescript)
 
 ## プロジェクトの構成
 ### src
